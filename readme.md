@@ -7,6 +7,12 @@ Projeto desenvolvido para a atividade prática da agenda de **Desenvolvimento de
 
 ---
 
+## 👤 Identificação
+* **Aluno:** Rogério Camargo
+* **Turma:** FMA
+* **Curso:** Técnico em Desenvolvimento de Sistemas
+* **Professora:** Edna
+
 ---
 
 ## 📋 Sobre o Projeto
